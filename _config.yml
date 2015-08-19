@@ -6,7 +6,7 @@ description: "Deus ex automatopoetus"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '000000'
+  primary-dark: '#2F4F4F'
   links: '#219ab3'
 
 # Footer settings
