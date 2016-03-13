@@ -10,7 +10,7 @@ title: Brian Annis
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Automation Engineer
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/brianannis.github.io" # the subpath of your site, e.g. /blog
 url: "https://brianannis.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
@@ -19,10 +19,10 @@ github_username:  brianannis
 facebook_username:
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+address_street: 
+address_city: New York
+address_state: NY
+address_zip: 10003
 
 # Build settings
 markdown: kramdown
