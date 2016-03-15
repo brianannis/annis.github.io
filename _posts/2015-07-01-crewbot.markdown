@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Crewbot"
+date:   2015-07-01 15:08:10 -0500
+img: img/portfolio/submarine.png
+modalID: modalCrewbot
+category: Code
+---
+- Pitched, designed and built a robust, full-featured Hubot style Chatops environment to extend programmatic development instance management to the ecommerce development team.
+- Introduced net-new "slash command" functionality to handle persistent SSH key management, build locking, and user management via the HipChat API.
+- Developed highly modular roles to handle all aspects of platform setup, deployment, application installation, and teardown.
+
+[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
