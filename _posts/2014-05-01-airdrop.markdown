@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "AirDrop"
+date:   2014-05-02 15:08:10 -0500
+img: img/portfolio/safe.png
+modalID: modalAirDrop
+category: Code
+---
+- Developed comprehensive internal tools to automate "all of the things"​; complete with error handling, input validation and centralized logging.
+- Created AirDrop, a pure PowerShell module that provides Vagrant style provisioning for J.Crew's private cloud. Resulted in a 95% reduction in end to end deployment time.
