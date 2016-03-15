@@ -6,5 +6,4 @@ img: img/portfolio/airdrop-web.png
 modalID: modalAirDrop
 category: Code
 ---
-- Developed comprehensive internal tools to automate "all of the things"​; complete with error handling, input validation and centralized logging.
-- Created AirDrop, a pure PowerShell module that provides Vagrant style provisioning for J.Crew's private cloud. Resulted in a 95% reduction in end to end deployment time.
+As a Windows Administrator at J.Crew, I created AirDrop, a pure PowerShell module that provides Vagrant style provisioning for J.Crew's VMware cluster. This automated solution reduced deployment time by 95%. The module is capable of building a RHEL VM complete with DNS registration, IP configuration, and hostname setup in under 5 minutes (tested on VMware 5.5 installed on ProLiant B460 blades backed by Dell Compellent storage.) Windows Server 2012 R2 servers can be fully provisioned in about 15 minutes, including domain binding and dynamic software installation.

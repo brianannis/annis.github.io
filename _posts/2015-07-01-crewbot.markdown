@@ -6,6 +6,4 @@ img: img/portfolio/crewbot-web.png
 modalID: modalCrewbot
 category: Code
 ---
-- Pitched, designed and built a robust, full-featured Hubot style Chatops environment to extend programmatic development instance management to the ecommerce development team.
-- Introduced net-new "slash command" functionality to handle persistent SSH key management, build locking, and user management via the HipChat API.
-- Developed highly modular roles to handle all aspects of platform setup, deployment, application installation, and teardown.
+As J.Crew's first Automation Engineer, I pitched, designed and built a robust, full-featured Chatops environment to extend self service instance creation to the ecommerce development team. Like many development organizations, our platform contains legacy components stretched across several environments. To enable dynamic ecommerce instances on demand, I developed highly modular ansible roles to handle all aspects of platform setup, deployment, application installation, and teardown.
