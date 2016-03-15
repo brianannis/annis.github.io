@@ -2,7 +2,7 @@
 layout: post
 title:  "MDT"
 date:   2013-09-01 15:08:10 -0500
-img: img/portfolio/game.png
+img: img/portfolio/mdt-web.png
 modalID: modalMDT
 category: Code
 ---
