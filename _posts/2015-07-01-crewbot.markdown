@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Crewbot"
-date:   2015-07-01 15:08:10 -0500
-img: img/portfolio/crewbot-web.png
-modalID: modalCrewbot
-category: Code
----
-As J.Crew's first Automation Engineer, I pitched, designed and built a robust, full-featured Chatops environment to extend self service instance creation to the ecommerce development team. Like many development organizations, our platform contains legacy components stretched across several environments. To enable dynamic ecommerce instances on demand, I developed highly modular ansible roles to handle all aspects of platform setup, deployment, application installation, and teardown.

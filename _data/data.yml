@@ -1,0 +1,87 @@
+sidebar:
+    # Site Settings
+    title: About Me
+    url: 'http://brianannis.github.io'
+    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+    # Profile information
+    name: Brian Annis
+    tagline: Lead Systems Engineer
+    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    website: brianannis.github.io #do not add http://
+    linkedin: brianannis
+    github: brianannis
+    twitter: '@b_annis'
+
+    languages:
+        - language:
+          idiom: English
+          level: Native
+
+    interests:
+        - interest:
+          item: Photography
+          link: bannmedia.com
+        - interest:
+          item: Traveling
+          link:
+        - interest:
+          item: Reading
+          link:
+
+career-profile:
+    title: Career Profile
+    text: 'Lead Systems Engineer at Intersection'
+
+
+studies:
+    - education:
+      degree: BSc in Marketing Communication
+      university: Emerson College
+      time: 2009 - 2012
+      details: "Magna Cum Laude"
+
+projects:
+    title: Projects
+    intro: "I believe strongly in open source and automation. Below you can find repositories that can create a macOS or Ubuntu workstation on demand with Ansible."
+
+    projects:
+      - project:
+        title: dotfiles
+        link: "https://github.com/brianannis/dotfiles"
+        tagline: "dotfiles for macOS"
+      - project:
+        title: ubuntu-bootstrap
+        link: "https://github.com/brianannis/ubuntu-bootstrap"
+        tagline: "End to end Ubuntu."
+
+skills:
+    title: Skills &amp; Proficiency
+    skills:
+        - skill:
+          name: Ansible
+          level: 95%
+        - skill:
+          name: Docker Swarm
+          level: 85%
+        - skill:
+          name: AWS
+          level: 85%
+        - skill:
+          name: Git
+          level: 85%
+        - skill:
+          name: Jinja
+          level: 80%
+        - skill:
+          name: Buildkite
+          level: 75%
+        - skill:
+          name: Python
+          level: 60%
+
+
+footer:
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'

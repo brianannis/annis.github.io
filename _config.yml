@@ -1,29 +1,29 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+#Update all the sections by editing the data.yml file inside _data folder.
 
-# Site settings
-title: Brian Annis
-email:
-description: > # this means to ignore newlines until "baseurl:"
-  Automation Engineer
-baseurl: "/brianannis.github.io" # the subpath of your site, e.g. /blog
-url: "https://brianannis.github.io" # the base hostname & protocol for your site
+baseurl: '/' #change it according to your repository name
 
-# Social media profiles - feel free to add more here
-twitter_username: b_annis
-github_username:  brianannis
-facebook_username:
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: ceramic
 
-# Address information
-address_street: Made in
-address_city: New York
-address_state: NY
-address_zip:
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+#education_in_main: True
+
+# Tracker
+analytics: UA-75129336-1
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
+
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false

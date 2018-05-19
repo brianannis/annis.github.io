@@ -1,9 +1,0 @@
----
-layout: post
-title:  "MDT"
-date:   2013-09-01 15:08:10 -0500
-img: img/portfolio/mdt-web.png
-modalID: modalMDT
-category: Code
----
-As a Desktop Analyst at J.Crew, I overhauled the existing MDT environment, resulting in a 5x decrease in deployment time per desktop (4.5 hours to 45 minutes), saving 2,700 man-hours and $162,000 annually. I also successfully automated the installation and provisioning of over a dozen business applications and added inline patching to the imaging process.
