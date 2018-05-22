@@ -53,10 +53,10 @@ projects:
         title: ubuntu-bootstrap
         link: "https://github.com/brianannis/ubuntu-bootstrap"
         tagline: "Ansible playbook to create an end to end Ubuntu workstation from first boot"
-      - project:
-        title: buymaster
-        link: "https://github.com/brianannis/buymaster"
-        tagline: "A simple python script for reblancing a portfolio"
+      # - project:
+      #   title: buymaster
+      #   link: "https://github.com/brianannis/buymaster"
+      #   tagline: "A simple python script for reblancing a portfolio"
 
 skills:
     title: Skills &amp; Proficiency
