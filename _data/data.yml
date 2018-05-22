@@ -27,13 +27,10 @@ sidebar:
         - interest:
           item: Traveling
           link:
-        - interest:
-          item: Reading
-          link:
 
 career-profile:
     title: Career Profile
-    text: 'Lead Systems Engineer at Intersection'
+    text: 'I'm particularly interested in automation, broad orchestration, and provisioning at scale. I also strongly believe in open source and the freedom of information. I currently lead the Systems Engineering team at Intersection.'
 
 
 studies:
@@ -45,17 +42,21 @@ studies:
 
 projects:
     title: Projects
-    intro: "I believe strongly in open source and automation. Below you can find repositories that can create a macOS or Ubuntu workstation on demand with Ansible."
+    intro: "Below you can find custom tooling that I have written to make my own development experience easier."
 
     projects:
       - project:
         title: dotfiles
         link: "https://github.com/brianannis/dotfiles"
-        tagline: "dotfiles for macOS"
+        tagline: "Ansible bootstrap and playbook for configuring a macOS workstation"
       - project:
         title: ubuntu-bootstrap
         link: "https://github.com/brianannis/ubuntu-bootstrap"
-        tagline: "End to end Ubuntu."
+        tagline: "Ansible playbook to create an end to end Ubuntu workstation from first boot"
+      - project:
+        title: buymaster
+        link: "https://github.com/brianannis/buymaster"
+        tagline: "A simple python script for reblancing a portfolio"
 
 skills:
     title: Skills &amp; Proficiency
@@ -64,20 +65,23 @@ skills:
           name: Ansible
           level: 95%
         - skill:
+          name: Provisioning
+          level: 90%
+        - skill:
           name: Docker Swarm
           level: 85%
         - skill:
           name: AWS
-          level: 85%
-        - skill:
-          name: Git
-          level: 85%
+          level: 80%
         - skill:
           name: Jinja
-          level: 80%
+          level: 75%
         - skill:
           name: Buildkite
           level: 75%
+        - skill:
+          name: Git
+          level: 70%
         - skill:
           name: Python
           level: 60%
