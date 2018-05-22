@@ -2,7 +2,7 @@ sidebar:
     # Site Settings
     title: About Me
     url: 'http://brianannis.github.io'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
     name: Brian Annis
