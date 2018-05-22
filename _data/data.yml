@@ -65,9 +65,6 @@ skills:
           name: Ansible
           level: 95%
         - skill:
-          name: Provisioning
-          level: 90%
-        - skill:
           name: Docker Swarm
           level: 85%
         - skill:
