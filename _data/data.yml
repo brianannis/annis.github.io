@@ -30,39 +30,17 @@ sidebar:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+    intro: My published works primarily focus on my deep interest and experience with Ansible and Kubernetes.
+    publications:
+      - title: "Building a Multi Tenant gRPC Development Platform with Ambassador and AWS EKS"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Brian Annis
+        conference: "Hacker Noon"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-# publications:
-#     title: Publications
-#     intro: My published works primarily focus on my deep interest and experience with Ansible and Kubernetes.
-#     papers:
-#       - title: "Building a Multi Tenant gRPC Development Platform with Ambassador and AWS EKS"
-#         link: "#"
-#         authors: Brian Annis
-#         conference: "Hacker Noon"
-#
-#       - title: "Scaling Ansible for IoT Deployments"
-#         link:  "#"
-#         authors: Brian Annis
-#         conference: "AnsibleFest Atlanta 2019"
+      - title: "Scaling Ansible for IoT Deployments"
+        link:  "#"
+        authors: Brian Annis
+        conference: "AnsibleFest Atlanta 2019"
 
 
 career-profile:
