@@ -36,7 +36,7 @@ publications:
       - title: Building a Multi-Tenant gRPC Development Platform with Ambassador and AWS EKS
         link: "https://hackernoon.com/building-a-multi-tenant-grpc-development-platform-with-ambassador-and-aws-eks-hgt3uh0"
         authors: Brian Annis
-        conference:
+        conference: "Hacker Noon"
 
       - title: "Scaling Ansible for IoT Deployments"
         link: "https://www.ansible.com/scaling-ansible-for-iot-deployments"
