@@ -6,7 +6,7 @@ sidebar:
 
     # Profile information
     name: Brian Annis
-    tagline: Lead Site Reliability Engineer
+    tagline: Tech Lead, SRE
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,14 +23,30 @@ sidebar:
     interests:
         - interest:
           item: Photography
-          link: bannmedia.com
+          link: https://cargocollective.com/brianannis
         - interest:
           item: Traveling
           link:
 
+publications:
+    title: Publications
+    intro: |
+      My published works primarily focus on my deep interest and experience with Ansible and Kubernetes.
+    papers:
+      - title: Building a Multi-Tenant gRPC Development Platform with Ambassador and AWS EKS
+        link: "https://hackernoon.com/building-a-multi-tenant-grpc-development-platform-with-ambassador-and-aws-eks-hgt3uh0"
+        authors: Brian Annis
+        conference:
+
+      - title: "Scaling Ansible for IoT Deployments"
+        link: "https://www.ansible.com/scaling-ansible-for-iot-deployments"
+        authors: Brian Annis
+        conference: "AnsibleFest Atlanta 2019"
+
+
 career-profile:
     title: Career Profile
-    text: "I'm particularly interested in automation, broad orchestration, and provisioning at scale. I also strongly believe in open source and the freedom of information. I currently lead the Site Reliability Engineering team at Intersection."
+    text: "I'm particularly interested in automation, broad orchestration, and provisioning at scale. I also strongly believe in open source and the freedom of information. I currently lead the Site Reliability Engineering team at Place Exchange."
 
 
 studies:
@@ -42,7 +58,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "Below you can find custom tooling that I have written to make my own development experience easier."
+    intro: "I have worked on a number of side projects, primarily workstation bootstraping for macOS and Ubuntu."
 
     projects:
       - project:
@@ -65,7 +81,7 @@ skills:
           name: Ansible
           level: 95%
         - skill:
-          name: Docker Swarm
+          name: Kubernetes
           level: 85%
         - skill:
           name: AWS
