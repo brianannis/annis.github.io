@@ -33,13 +33,13 @@ publications:
     intro: |
       My published works primarily focus on my deep interest and experience with Ansible and Kubernetes.
     papers:
-      - title: "Building a Multi-Tenant gRPC Development Platform with Ambassador and AWS EKS"
-        link: 'https://hackernoon.com/building-a-multi-tenant-grpc-development-platform-with-ambassador-and-aws-eks-hgt3uh0'
+      - title: "Building a Multi Tenant gRPC Development Platform with Ambassador and AWS EKS"
+        link: "#"
         authors: Brian Annis
         conference: "Hacker Noon"
 
       - title: "Scaling Ansible for IoT Deployments"
-        link: 'https://www.ansible.com/scaling-ansible-for-iot-deployments'
+        link:  "#"
         authors: Brian Annis
         conference: "AnsibleFest Atlanta 2019"
 
