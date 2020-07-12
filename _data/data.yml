@@ -30,8 +30,7 @@ sidebar:
 
 publications:
     title: Publications
-    intro: |
-      My published works primarily focus on my deep interest and experience with Ansible and Kubernetes.
+    intro: My published works primarily focus on my deep interest and experience with Ansible and Kubernetes.
     papers:
       - title: "Building a Multi Tenant gRPC Development Platform with Ambassador and AWS EKS"
         link: "#"
