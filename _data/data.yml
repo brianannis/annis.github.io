@@ -6,8 +6,8 @@ sidebar:
 
     # Profile information
     name: Brian Annis
-    tagline: Tech Lead, SRE
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Director, SRE
+    pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     website: brianannis.github.io #do not add http://
@@ -45,7 +45,7 @@ publications:
 
 career-profile:
     title: Career Profile
-    text: "I'm particularly interested in automation, broad orchestration, and provisioning at scale. I also strongly believe in open source and the freedom of information. I currently lead the Site Reliability Engineering team at Place Exchange."
+    text: "I'm particularly interested in automation, orchestration, and availability at scale. I also strongly believe in open source, the freedom of information, and universal broadband. I currently lead the Site Reliability Engineering practice at Place Exchange."
 
 
 studies:
@@ -81,10 +81,10 @@ skills:
           level: 95%
         - skill:
           name: Kubernetes
-          level: 85%
+          level: 90%
         - skill:
           name: AWS
-          level: 80%
+          level: 85%
         - skill:
           name: Jinja
           level: 75%
